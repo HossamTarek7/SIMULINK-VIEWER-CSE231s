@@ -1,6 +1,6 @@
-### SIMULINK-VIEWER-CSE231s
+# SIMULINK-VIEWER-CSE231s
 
-#Description: 
+# Description: 
 parse and develop a SIMULINK VIEWER tool using a Java-based graphical user 
 interface (GUI) The tool will provide users with the ability to load Simulink MDL files and view their 
 contents in a hierarchical structure.
