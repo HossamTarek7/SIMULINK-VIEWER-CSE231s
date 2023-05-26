@@ -18,4 +18,4 @@ contents in a hierarchical structure.
 
 
 # example picture 
-!(https://github.com/HossamTarek7/SIMULINK-VIEWER-CSE231s/blob/main/Final%20model.jpg)
+![.](https://github.com/HossamTarek7/SIMULINK-VIEWER-CSE231s/blob/main/Final%20model.jpg)
