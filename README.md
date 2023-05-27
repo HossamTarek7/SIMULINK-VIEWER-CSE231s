@@ -1,6 +1,6 @@
 # SIMULINK-VIEWER-CSE231s
 
-### Team memebrs:
+### Team 36:
 + Hossam Tarek El-sayed 2000078
 - Mohamed Fareed Mohamed 2000933
 * Shadi mohamed elsaid abdelmeneam 2000405 
