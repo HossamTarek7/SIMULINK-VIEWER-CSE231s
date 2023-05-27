@@ -16,10 +16,10 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
 
-/**
- *
- * @author Hossa
- */
+
+
+
+
 public class Reader {
 
     public static void read_file(ArrayList<Block> blockss, File selectedFile2) {
@@ -39,10 +39,9 @@ public class Reader {
 
                 }
             }
-//            for (int i = 0; i < 2; i++) {
-//            line = br.readLine();
-//          
-//    }
+
+            
+            
             while (true) {
                 line = br.readLine();
                 readLines.add(line);
