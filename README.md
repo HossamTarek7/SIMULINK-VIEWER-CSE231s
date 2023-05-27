@@ -1,5 +1,11 @@
 # SIMULINK-VIEWER-CSE231s
 
+### Team memebrs:
++ Hossam Tarek El-sayed 2000078
+- Mohamed Fareed Mohamed 2000933
+* Shadi mohamed elsaid abdelmeneam 2000405 
+
+
 ## Description: 
 Simulink MDL files are a file format used by the Simulink modeling and simulation software developed 
 by MathWorks. MDL files are an alternative to the older Simulink SLX file format and were introduced in 
